@@ -1,0 +1,29 @@
+{
+    "AS_Button_b3f809e27c5c43b19b5703d957805820": {
+        "id": "AS_Button_b3f809e27c5c43b19b5703d957805820",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c24993fd79b844b1aa61d56512cb9793"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__h47db16119bd4da6909827cf524198fc",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form2",
+            "formKUID": "fbcb41abda4f4db38b4ba257204cb8d4",
+            "projectName": "NativeTest",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}
