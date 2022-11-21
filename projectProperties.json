@@ -315,7 +315,7 @@
     "extendTop": "false",
     "fbxfolderpathkey": "",
     "fgcolorkey": "255,255,255",
-    "generateAppBundle": true,
+    "generateAppBundle": false,
     "generateJavaCodeForForms": "false",
     "genericexceptionalert": "false",
     "gradle_properties_attrs": "",
